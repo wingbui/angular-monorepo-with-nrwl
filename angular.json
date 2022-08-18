@@ -5,6 +5,7 @@
     "admin": "apps/admin",
     "admin-e2e": "apps/admin-e2e",
     "store": "apps/store",
-    "store-e2e": "apps/store-e2e"
+    "store-e2e": "apps/store-e2e",
+    "ui": "libs/ui"
   }
 }
