@@ -8,7 +8,7 @@
   &-sidebar {
     position: fixed;
     width: 200px;
-    background-color: darkgray;
+    background-color: #333;
     height: 100%;
 
     .logo {
@@ -35,6 +35,7 @@
             color: var(--surface-a);
             display: block;
             padding: 10px 15px;
+            font-weight: bold;
 
             &:hover {
               background-color: var(--blue-700);
@@ -53,7 +54,6 @@
   &-main {
     width: calc(100% - 200px);
     margin-left: 200px;
-    background-color: darkred;
   }
 
   &-page {

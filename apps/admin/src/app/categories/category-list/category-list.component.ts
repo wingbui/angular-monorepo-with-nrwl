@@ -6,7 +6,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./category-list.component.scss'],
 })
 export class CategoryListComponent implements OnInit {
-  categories = [
+  categories =
+
+
+
+  [
     {
       id: 1,
       name: 'Category 1',
