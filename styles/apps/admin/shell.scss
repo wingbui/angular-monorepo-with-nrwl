@@ -53,7 +53,10 @@
   &-main {
     width: calc(100% - 200px);
     margin-left: 200px;
-    background-color: red;
-    height: 100px;
+    background-color: darkred;
+  }
+
+  &-page {
+    padding: 15px;
   }
 }
